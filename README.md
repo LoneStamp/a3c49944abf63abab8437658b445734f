@@ -1,7 +1,7 @@
 # a3c49944abf63abab8437658b445734f
 
 ## Computer Vision
-- Awesome Computer Vision <a href="https://github.com/jbhuang0604/awesome-computer-vision.git"></a>
+- Awesome Computer Vision <a href="https://github.com/jbhuang0604/awesome-computer-vision.git">+</a>
 - All Computer Vision Projects - Beginner to Advanced  <a href="https://github.com/avs-abhishek123/Computer-Vision-Projects.git">+</a>
 - computervision-recipes  <a href="https://github.com/microsoft/computervision-recipes.git">+</a>
 - Computer-Vision-Projects  <a href="https://github.com/Aryan-Chharia/Computer-Vision-Projects.git">+</a>
