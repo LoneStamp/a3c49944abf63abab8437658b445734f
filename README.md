@@ -19,4 +19,6 @@
 
 ## Tools
 - Sherlock <a href="https://github.com/LoneStamp/sherlock.git">+</a>
+## Software
+-Firefox <a href="https://github.com/bolucat/Firefox.git">+</a>
 
