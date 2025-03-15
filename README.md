@@ -16,6 +16,7 @@
 ## AI Agents
 - n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  <a href="https://github.com/n8n-io/n8n.git">+</a>
 - Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.  <a href="https://github.com/LoneStamp/lobe-chat.git">+</a>
+- Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.  <a href="https://github.com/QwenLM/Qwen2.5-Coder.git">+</a>
 
 ## Tools
 - Sherlock <a href="https://github.com/LoneStamp/sherlock.git">+</a>
