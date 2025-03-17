@@ -30,5 +30,13 @@
 - Gephi <a href="https://github.com/gephi/gephi.git">+</a>
 ## OS
 - Parrot in Termux <a href="https://github.com/wahasa/Parrot.git">+</a>
-
+- Athena OS <a href="https://github.com/Athena-OS/athena.git">+</a>
+- Linux kernel source tree <a href="https://github.com/torvalds/linux.git">+</a>
+## Developments
+- Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. <a href="https://github.com/flet-dev/flet.git">+</a>
+- ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. <a href="https://github.com/semanser/codel.git">+</a>
+- Deven AI: 🙌 OpenHands: Code Less, Make More <a href="https://github.com/All-Hands-AI/OpenHands.git">+</a>
+- Electron JS: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS <a href="https://github.com/electron/electron.git">+</a>
+- Tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend. <a href="https://github.com/tauri-apps/tauri.git">+</a>
+- Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface. <a href="https://github.com/Doriandarko/claude-engineer.git">+</a>
 
