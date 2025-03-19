@@ -27,6 +27,8 @@
 
 ## 🛡️ Penetration Tools
 - 🔗 ANDRAX The first and unique Penetration Testing platform for Android smartphones <a href="https://github.com/laudarch/ANDRAX-Mobile-Pentest.git">🔗</a>
+- metasploit-framework <a href="https://github.com/ParrotSec/metasploit-framework.git">🔗</a>
+
 
 ## 💻 Software
 - 🔗 Firefox <a href="https://github.com/bolucat/Firefox.git">🔗</a>
