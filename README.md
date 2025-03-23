@@ -25,6 +25,7 @@
 - 🔗 ASCII generator (image to text, image to image, video to video) <a href="https://github.com/vietnh1009/ASCII-generator.git">🔗</a>
 - 🔗 Visual Studio Code <a href="https://github.com/microsoft/vscode.git">🔗</a>
 - 🔗 Termux - a terminal emulator application for Android OS extendible by variety of packages. <a href="https://github.com/termux/termux-app.git">🔗</a>
+- 🔗 Netguard - A simple way to block access to the internet per app.  <a href="https://github.com/M66B/NetGuard.git">🔗</a>
 
 ## 🛡️ Penetration Tools
 - 🔗 ANDRAX The first and unique Penetration Testing platform for Android smartphones <a href="https://github.com/laudarch/ANDRAX-Mobile-Pentest.git">🔗</a>
