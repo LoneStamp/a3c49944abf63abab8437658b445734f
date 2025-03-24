@@ -13,6 +13,9 @@
 - 🔗 Computer-Vision-Industry-Use-Cases <a href="https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases.git">🔗</a>
 - 🔗 Udacity-Computer-Vision <a href="https://github.com/Gan-Tu/Udacity-Computer-Vision.git">🔗</a>
 
+## Github
+- 🔗 ⚡ Dynamically generated stats for your github readmes  <a href="https://github.com/anuraghazra/github-readme-stats.git">🔗</a>
+
 ## Courses
 - 🔗 Project-based-learning: Curated list of project-based tutorials <a href="https://github.com/practical-tutorials/project-based-learning.git">🔗</a>
 
