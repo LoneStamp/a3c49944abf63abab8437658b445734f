@@ -13,6 +13,8 @@
 - 🔗 Computer-Vision-Industry-Use-Cases <a href="https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases.git">🔗</a>
 - 🔗 Udacity-Computer-Vision <a href="https://github.com/Gan-Tu/Udacity-Computer-Vision.git">🔗</a>
 
+## Courses
+- 🔗 Project-based-learning: Curated list of project-based tutorials <a href="https://github.com/practical-tutorials/project-based-learning.git">🔗</a>
 
 ## 🤖 AI Agents
 - 🔗 n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. <a href="https://github.com/n8n-io/n8n.git">🔗</a>
