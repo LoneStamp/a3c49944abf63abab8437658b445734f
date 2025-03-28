@@ -55,3 +55,6 @@
 - ⚡ Tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend. <a href="https://github.com/tauri-apps/tauri.git">🔗</a>
 - 🔧 Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface. <a href="https://github.com/Doriandarko/claude-engineer.git">🔗</a>
 
+## Others
+- Awesome-Radar-Perception A curated list of radar datasets, detection, tracking and fusion <a href="https://github.com/ZHOUYI1023/awesome-radar-perception.git">🔗</a>
+
