@@ -58,4 +58,5 @@
 
 ## Others
 - Awesome-Radar-Perception A curated list of radar datasets, detection, tracking and fusion <a href="https://github.com/ZHOUYI1023/awesome-radar-perception.git">🔗</a>
+- Odoo. Open Source Apps To Grow Your Business.  <a href="https://github.com/odoo/odoo.git">🔗</a>
 
