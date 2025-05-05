@@ -12,6 +12,8 @@
 - 🔗 10 GitHub Repositories to Master Computer Vision <a href="https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision">🔗</a>
 - 🔗 Computer-Vision-Industry-Use-Cases <a href="https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases.git">🔗</a>
 - 🔗 Udacity-Computer-Vision <a href="https://github.com/Gan-Tu/Udacity-Computer-Vision.git">🔗</a>
+- 🔗 Deep-Live-Cam real time face swap and one-click video deepfake with only a single image  <a href="https://github.com/hacksider/Deep-Live-Cam">🔗</a>
+
 
 ## Github
 - 🔗 ⚡ Dynamically generated stats for your github readmes  <a href="https://github.com/anuraghazra/github-readme-stats.git">🔗</a>
