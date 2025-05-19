@@ -43,6 +43,9 @@
 - 🔗 Termux - a terminal emulator application for Android OS extendible by variety of packages. <a href="https://github.com/termux/termux-app.git">🔗</a>
 - 🔗 Netguard - A simple way to block access to the internet per app.  <a href="https://github.com/M66B/NetGuard.git">🔗</a>
 - 🔗 d3 - Bring data to life with SVG, Canvas and HTML. 📊📈🎉   <a href="https://github.com/d3/d3.git">🔗</a>
+- 🔗 [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.    <a href="https://github.com/yeongpin/cursor-free-vip">🔗</a>
+- 🔗 Pocket Flow: Codebase to Tutorial <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">🔗</a>
+
 
 ## 🛡️ Penetration Tools
 - 🔗 ANDRAX The first and unique Penetration Testing platform for Android smartphones <a href="https://github.com/laudarch/ANDRAX-Mobile-Pentest.git">🔗</a>
