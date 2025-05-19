@@ -20,6 +20,14 @@
 
 ## Courses
 - 🔗 Project-based-learning: Curated list of project-based tutorials <a href="https://github.com/practical-tutorials/project-based-learning.git">🔗</a>
+- 🔗 The Algorithms | Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language <a href="https://github.com/thealgorithms">🔗</a>
+- 🔗 💯 Curated coding interview preparation materials for busy software engineers  <a href="https://github.com/yangshun/tech-interview-handbook">🔗</a>
+- 🔗 🗂 The perfect Front-End Checklist for modern websites and meticulous developers   <a href="https://github.com/thedaviddias/Front-End-Checklist">🔗</a>
+- 🔗 👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.  <a href="https://github.com/LeCoupa/awesome-cheatsheets">🔗</a>
+- 🔗 Interactive roadmaps, guides and other educational content to help developers grow in their careers.   <a href="https://github.com/kamranahmedse/developer-roadmap">🔗</a>
+- 🔗 😎 Awesome lists about all kinds of interesting topics    <a href="https://github.com/sindresorhus/awesome">🔗</a>
+
+
 
 ## 🤖 AI Agents
 - 🔗 n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. <a href="https://github.com/n8n-io/n8n.git">🔗</a>
