@@ -47,9 +47,13 @@
 - 🔗 Pocket Flow: Codebase to Tutorial <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">🔗</a>
 
 
-## 🛡️ Penetration Tools
+## 🛡️ Cybersecurity & Hacking
 - 🔗 ANDRAX The first and unique Penetration Testing platform for Android smartphones <a href="https://github.com/laudarch/ANDRAX-Mobile-Pentest.git">🔗</a>
 - metasploit-framework <a href="https://github.com/ParrotSec/metasploit-framework.git">🔗</a>
+- Ghidra is a software reverse engineering (SRE) framework  <a href="https://github.com/NationalSecurityAgency/ghidra">🔗</a>
+- Ghidra is a software reverse engineering (SRE) framework  <a href="https://github.com/x64dbg/x64dbg">🔗</a>
+
+
 
 
 ## 💻 Software
