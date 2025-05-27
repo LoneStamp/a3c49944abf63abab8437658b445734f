@@ -26,6 +26,7 @@
 - 🔗 👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.  <a href="https://github.com/LeCoupa/awesome-cheatsheets">🔗</a>
 - 🔗 Interactive roadmaps, guides and other educational content to help developers grow in their careers.   <a href="https://github.com/kamranahmedse/developer-roadmap">🔗</a>
 - 🔗 😎 Awesome lists about all kinds of interesting topics    <a href="https://github.com/sindresorhus/awesome">🔗</a>
+- 🔗 Computer Science - 🎓 Path to a free self-taught education in Computer Science!     <a href="https://github.com/ossu/computer-science">🔗</a>
 
 
 
