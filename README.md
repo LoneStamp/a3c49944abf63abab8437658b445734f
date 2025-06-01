@@ -15,9 +15,8 @@
 - 🔗 Deep-Live-Cam real time face swap and one-click video deepfake with only a single image  <a href="https://github.com/hacksider/Deep-Live-Cam">🔗</a>
 
 ## Forums
-- 🔗 ⚡ 
-awesome-founder-communities
-- A curated list of the best online communities for startup founders, indie makers, solopreneurs, and creators to connect, learn, and grow.   <a href="https://github.com/dakotamin/awesome-founder-communities">🔗</a>
+- 🔗 ⚡ awesome-founder-communities - A curated list of the best online communities for startup founders, indie makers, solopreneurs, and creators to connect, learn, and grow.   <a href="https://github.com/dakotamin/awesome-founder-communities">🔗</a>
+- 🔗 ⚡ awesome-launch-platforms - Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project. <a href="https://github.com/dakotamin/awesome-launch-platforms">🔗</a>
 
 
 ## Github
