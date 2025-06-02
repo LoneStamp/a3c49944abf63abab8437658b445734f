@@ -41,6 +41,7 @@
 - 🔗 Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.  <a href="https://github.com/coleam00/Archon">🔗</a>
 - 🔗 Local Voice AI Agent <a href="https://github.com/jesuscopado/local-voice-ai-agent">🔗</a>
 - 🔗 agentikSeek - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.  <a href="https://github.com/Fosowl/agenticSeek">🔗</a>
+- 🔗 onlook -The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI   <a href="https://github.com/onlook-dev/onlook">🔗</a>
 
 ## 🛠️ Tools
 - 🔗 Sherlock <a href="https://github.com/LoneStamp/sherlock.git">🔗</a>
