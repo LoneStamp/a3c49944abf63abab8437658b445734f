@@ -13,6 +13,7 @@
 - 🔗 Computer-Vision-Industry-Use-Cases <a href="https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases.git">🔗</a>
 - 🔗 Udacity-Computer-Vision <a href="https://github.com/Gan-Tu/Udacity-Computer-Vision.git">🔗</a>
 - 🔗 Deep-Live-Cam real time face swap and one-click video deepfake with only a single image  <a href="https://github.com/hacksider/Deep-Live-Cam">🔗</a>
+- 🔗 VGG Image Annotator (VIA) - VGG Image Annotator is a simple and standalone manual annotation software for image, audio and video. VIA runs in a web browser and does not require any installation or setup. The complete VIA software fits in a single self-contained HTML page of size less than 400 Kilobyte that runs as an offline application in most modern web browsers.  <a href="https://www.robots.ox.ac.uk/~vgg/software/via/">🔗</a>
 
 ## Forums
 - 🔗 ⚡ awesome-founder-communities - A curated list of the best online communities for startup founders, indie makers, solopreneurs, and creators to connect, learn, and grow.   <a href="https://github.com/dakotamin/awesome-founder-communities">🔗</a>
